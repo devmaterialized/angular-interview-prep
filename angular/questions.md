@@ -1,5 +1,3 @@
-# Angular Interview Questions & Answers for Senior Developers
-
 ## 1. Change Detection: Default vs. OnPush vs. Signals
 
 **Direct Answer:** Traditionally, Angular uses Zone.js to trigger change detection globally. **Default** strategy checks the entire component tree on any event, while **OnPush** limits checks to input changes or manual triggers. **Signals** represent the future of Angular, enabling fine-grained, zone-less reactivity where only the specific DOM nodes bound to a signal are updated.

@@ -1,5 +1,3 @@
-# TypeScript Interview Questions & Answers for Senior Developers
-
 ## 1. Static vs. Dynamic Typing: What is the main problem TypeScript solves?
 
 **Direct Answer:** TypeScript introduces a static type system over JavaScript, allowing developers to define and enforce data contracts at compile-time rather than runtime. This drastically reduces "undefined is not a function" errors and provides a self-documenting codebase for large-scale applications.

@@ -1,5 +1,3 @@
-# NgRx Interview Questions & Answers for Senior Developers
-
 ## 1. The Redux Pattern & Unidirectional Data Flow
 
 **Direct Answer:** NgRx implements the Redux pattern: **Actions** describe events, **Reducers** handle state transitions synchronously by returning new state objects, and **Selectors** allow components to subscribe to specific slices of that state.

@@ -1,5 +1,3 @@
-# JavaScript & Web Storage Interview Questions for Seniors
-
 ## 1. Describe differences between localStorage, sessionStorage, and cookies.
 
 **Direct Answer:** LocalStorage and SessionStorage are modern Web Storage APIs for client-side data, differing primarily in persistence (permanent vs. tab-session). Cookies are a legacy storage mechanism primarily designed for server-side communication and authentication.

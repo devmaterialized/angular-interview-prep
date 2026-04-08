@@ -1,5 +1,3 @@
-# RxJS Interview Questions & Answers for Senior Developers
-
 ## 1. Observables vs. Promises: The "Streaming" Mindset
 
 **Direct Answer:** Promises are for single, eager, non-cancelable asynchronous events. Observables are for multiple, lazy, cancelable streams of data over time.
